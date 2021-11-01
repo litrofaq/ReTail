@@ -10,6 +10,7 @@ namespace ReTail
             Console.WriteLine("\nReTail repo");
             Console.WriteLine("\nещё изменения");
             Console.WriteLine("\nи ещё изменения");
+            // комментарий
         }
     }
 }
