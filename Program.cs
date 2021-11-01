@@ -8,6 +8,7 @@ namespace ReTail
         {
             Console.WriteLine("ReTail repo");
             Console.WriteLine("\nReTail repo");
+            Console.WriteLine("\nещё изменения");
         }
     }
 }
